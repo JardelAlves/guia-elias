@@ -1,0 +1,1 @@
+Atividade que comprime ações. Por uma ação, é possível se mover e, no final do movimento, realizar a atividade [[Battle Medicine]] ou [Treat Poison](https://2e.aonprd.com/Actions.aspx?ID=2398).
